@@ -1,6 +1,6 @@
 # V-Ago
 
-**Vue 3 Human Readable Time**
+**Display Human Readable Time from a JS Date Object / MYSQL Timestamp String**
 
 - Does not depend on moment.js / date-fns
 - Lightweight
