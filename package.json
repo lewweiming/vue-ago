@@ -1,0 +1,17 @@
+{
+  "name": "vue-ago",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js", 
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "dev": "vue serve Example.vue"
+   },
+   "eslintConfig": {
+    "rules": {
+      "no-console": "off",
+      "no-unused-vars": "off"
+    }
+  }
+}
