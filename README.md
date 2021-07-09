@@ -1,8 +1,12 @@
-# V-Ago - Vue 3 Human Readable Time
+# V-Ago
 
-- Does not depend on moment.js
+**Vue 3 Human Readable Time**
+
+- Does not depend on moment.js / date-fns
 - Lightweight
 - MySQL Timestamp support
+
+ https://www.npmjs.com/package/vue-ago
 
 # Basic Usage
 
@@ -41,3 +45,4 @@ export default {
 - Write test cases
 - Rollup deployment
 - Using Date FNS?
+- Write documentation
