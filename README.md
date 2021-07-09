@@ -18,7 +18,7 @@
 </template>
 
 <script>
-import VAgo from 'vue-human-readable';
+import VAgo from 'vue-ago';
 
 export default {
   components: {
