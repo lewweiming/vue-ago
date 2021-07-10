@@ -38,6 +38,10 @@ export default {
 - If set true, accepts a MySQL Timestamp string
 - If false, accepts a JS Date object
 
+```
+<v-ago :mysql="true" :mysqlTimestamp="p.created_at" />
+```
+
 # Remaining Tasks
 
 - Build a Gitpage
