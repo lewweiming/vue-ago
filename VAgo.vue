@@ -1,5 +1,5 @@
 <template>
-    <div>{{ out}}</div>
+    <span>{{ out}}</span>
 </template>
 <script>
 import funcs from './function.js'
